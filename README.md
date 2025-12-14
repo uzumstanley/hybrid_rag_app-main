@@ -86,3 +86,5 @@ This is the main Streamlit app file that implements the logic for RAG, context r
 - Add a more dynamic UI with filters and advanced search options.
 
 Let me know if you have any questions or need further modifications!
+
+Author 
