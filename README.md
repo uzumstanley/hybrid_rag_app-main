@@ -87,4 +87,4 @@ This is the main Streamlit app file that implements the logic for RAG, context r
 
 Let me know if you have any questions or need further modifications!
 
-Author :
+Author : Stanley 
